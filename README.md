@@ -10,7 +10,7 @@
 <p align="justify">Código desenvolvido com base em uma atividade da faculdade. Podemos alimentar o sistema com informações sobre as peças que compõem um determinado computador e deixar salvo no sistema para consultar as características detalhadas do mesmo.
 </p>
 
-<strong>O programa vai exibir na telas as seguintes informações:</strong>
+<strong>O programa vai exibir na tela as seguintes informações:</strong>
 
 - [x] Número de série do computador
 - [x] Dados detalhados de cada peça do computador (teclado, mouse, monitor e gabinete)
