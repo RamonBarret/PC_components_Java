@@ -1,7 +1,7 @@
 ## Código - Componentes de Computadores 💻
 
 <p align="center">
-  <img alt="cursoemvideo" src=".github/cursoemvideo.png" />
+  <img alt="componets-pc" src=".github/componentes.PNG"/>
 </p>
 
 ### Java POO ☕
